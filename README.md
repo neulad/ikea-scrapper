@@ -14,8 +14,7 @@ pacman -S git python3
 
 ### Installation
 
-1. Register Telegram Bot using Bot Father
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://gitlab.com/scripts62/ikea-scraper.git
    ```
