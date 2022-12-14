@@ -16,7 +16,7 @@ pacman -S git python3
 
 1. Clone the repo
    ```sh
-   git clone https://gitlab.com/scripts62/ikea-scraper.git
+   git clone git@github.com:neulad/ikea-scrapper.git
    ```
 
 <!-- USAGE EXAMPLES -->
